@@ -1,0 +1,12 @@
+This project creates a simple unix shell in C that supports job control, and shows the concepts of
+process control and signaling
+
+A shell is an interactive command-line intepreter that runs programs on behalf of the user
+
+Functions Created:
+- eval: Main routine that parses and interprets the command line
+- do_bgfg: Implements the bg and fg built-in commands
+- waitfg: waits for a foreground job to complete
+- sigchld_handler: Catches SIGCHILD signals
+- sigint_handler: Catches SIGINT (ctrl-c) signals
+- sigstp_handler: Catches SIGTSTP (ctrl-z) signals
