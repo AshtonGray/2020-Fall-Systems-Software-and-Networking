@@ -2,7 +2,7 @@
  * tsh - A tiny shell program with job control
  * 
  * Ashton Gray
- * Grady Sullivan 30932518
+ * 
  *
  */
 #include <stdio.h>
