@@ -1,0 +1,2 @@
+This project uses a socket-based client in C that spoofs a networks client written in python using 
+remote procedural calls.
