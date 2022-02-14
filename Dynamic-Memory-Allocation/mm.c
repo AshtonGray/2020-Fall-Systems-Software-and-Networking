@@ -1,4 +1,4 @@
-// Ashton Gray & Grady Sullivan
+// Ashton Gray
 // Extra Credit was attempted
 
 
