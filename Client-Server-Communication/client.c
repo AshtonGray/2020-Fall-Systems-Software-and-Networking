@@ -1,5 +1,4 @@
 /* Ashton Gray
- * Grady Sullivan
  * Project 5
  * client.c
  */
